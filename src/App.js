@@ -1,5 +1,5 @@
 import './App.css';
-import "bootswatch/dist/lux/bootstrap.min.css";
+import './bootstrap.min.css';
 
 function App() {
   return (
