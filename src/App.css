@@ -36,3 +36,11 @@
     transform: rotate(360deg);
   }
 }
+
+.home-img {
+  background:url(https://images.unsplash.com/photo-1507652313519-d4e9174996dd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=2370&q=80)  center / cover no-repeat; background-color:rgb(56, 56, 56); background-blend-mode: overlay;
+}
+
+.white {
+  color: #ffffff;
+}
