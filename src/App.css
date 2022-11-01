@@ -44,3 +44,7 @@
 .white {
   color: #ffffff;
 }
+
+.ft-sm{
+  min-height:256px;
+}
