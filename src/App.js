@@ -2,6 +2,7 @@ import './App.css';
 import './bootstrap.min.css';
 import Hero from "./componentes/hero";
 import Section1 from "./componentes/section-1";
+import Servicios from "./componentes/servicios";
 
 function App() {
   return (
@@ -38,6 +39,7 @@ function App() {
     </nav><div>
         <Hero />
         <Section1 />
+        <Servicios />
       </div></>
    
   );
