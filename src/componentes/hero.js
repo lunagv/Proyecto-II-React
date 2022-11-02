@@ -13,11 +13,9 @@ class Hero extends Component {
 
 		<div className="lc-block">
 			<div editable="rich">
-				<p class="lead">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Proin faucibus porttitor dui.</p>
+				<p class="lead">Sabemos la importancia que tiene el cuidado de la salud fisica y mental asi que ponemos a tu alcance diversos servicios y actividades que te permitirán mejorar tu calidad de vida.</p>
 
-				<p class="lead">Sim in vestibulum metus pulvinar sit amet.
 
-				</p>
 
 			</div>
 		</div>
