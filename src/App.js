@@ -3,6 +3,7 @@ import './bootstrap.min.css';
 import Hero from "./componentes/hero";
 import Section1 from "./componentes/section-1";
 import Servicios from "./componentes/servicios";
+import Actividades from './componentes/actividades';
 
 function App() {
   return (
@@ -40,6 +41,8 @@ function App() {
         <Hero />
         <Section1 />
         <Servicios />
+        <Actividades />
+
       </div></>
    
   );
